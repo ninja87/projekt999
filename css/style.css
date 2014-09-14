@@ -1,0 +1,141 @@
+
+
+body{ 
+    font-family: Arial, Tahoma, Verdana, sans-serif;
+    margin:0;
+}
+a.logo{
+    text-decoration: none;
+    color: #55B388;
+    font-size: 40px;
+}
+header{
+    background-image: url(../images/header.jpg);
+    background-repeat: no-repeat;
+    width:100%;
+    height:400px;
+    color: white;
+    padding: 50px 0 50px 0;
+ }
+ 
+ .menu{
+    margin-left: 310px;
+    
+ } 
+ div.środkowanie{
+     width:1000px;
+     border:1px solid red;
+     margin:0 auto;
+ }
+ 
+.kowalscy li{
+     padding:0;
+     display:inline-block;
+     color: white;
+ }
+ 
+ .kowalscy li a{ 
+     color:white;
+     text-decoration: none;
+     padding:0 6px 0 6px;
+ }
+ 
+ .kowalscy li a:hover{
+     color:#55B388;
+ }
+ 
+ h1{
+     margin: 55px 0 0 0 ;
+ }
+ p{
+     line-height: 25px;
+ }
+ .stala{
+     width:400px;
+ }
+ header .buton{
+     text-decoration: none;
+     color: white;
+     background-color:#55B388;
+     padding: 10px 20px 10px 20px;
+     border-radius: 10px;
+     margin: 20px 0 0 0;
+     display:block;
+     width: 150px;
+     text-align: center;
+ }
+ header .buton:hover{
+     background-color:#83deb2;
+ }
+ .rightbox{
+     display:inline-block;
+ }
+ .leftbox{
+     display:inline-block;
+     width: 400px;
+     border:1px solid red;
+     vertical-align: top;
+ }
+ .birrd{
+     margin-left: 250px;
+     margin-top: 60px;
+     border:1px solid red;
+ }
+ .down{
+     margin-top: 60px;
+ }
+ 
+ .notka{
+     margin-top: 50px;
+ }
+ 
+ h2{
+    margin:0;
+    
+ }
+ .napis{
+     margin-left: 150px;
+ }
+ .zielona{
+     background-color: #55B388;
+     text-align: center;
+     height:500px;
+     color:white;
+     padding-top:50px;
+     margin-top: 30px;
+ }
+.kap{
+      width:800px;   
+     }
+     
+ .filmikowa{
+       margin-top:180px;  
+       text-align: center;
+       color:#505965;
+     }
+ span{
+       color:#858B93;
+     }
+     
+     footer{
+         background-color: #2D3035;
+         height:200px;
+         text-align:center;
+         
+     }
+     
+     .footerbutton{
+         width:50px;
+         height:30px;
+         background-color: #55B388;
+         display:inline-block;
+         text-align:center;
+         margin-top: 66px;
+         padding-top: 15px;
+         border-radius:50%;
+         text-decoration:none;
+         color: white;
+     }
+     .linki{
+         color:white;
+     }
